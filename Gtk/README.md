@@ -5,6 +5,6 @@
 
 [Checkout my site](https://acry.github.io/)
 
-[Test-Link](./Text/Notes.txt)
+[Test-Link](./Text/Notes.md)
 
 
