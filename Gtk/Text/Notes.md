@@ -1,7 +1,4 @@
-
-
 # GTK Text Concept - Intro
-
 
 The Text Widget is part of the GTK's text editing system.
 
@@ -19,10 +16,14 @@ Within a TextBuffer it is necessary to differentiate between the character count
 
 Usually the view is shown in a Scrolled window.
 
+## Drawing on a Textview
 
-##Links
+[Notes](./View/Drawing/Notes.md)
+
+## Links
 
 A Demo on the GNOME's Developer Site:
 https://developer.gnome.org/gnome-devel-demos/stable/textview.py.html.en
 
+Additional Informations:
 https://gitlab.gnome.org/GNOME/gtk/blob/master/docs/text_widget_internals.txt
