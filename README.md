@@ -8,6 +8,4 @@
 [PyGObject-Introduction](Intro.txt)
 
 Currently available:
-[GTK-Text-System](./Gtk/Text/Notes.txt)
-
-
+[GTK-Text-System](./Gtk/Text/Notes.md)
