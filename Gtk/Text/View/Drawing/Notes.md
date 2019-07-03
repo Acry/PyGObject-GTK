@@ -42,7 +42,7 @@ Hook up to that event: `widget.connect("draw", cb-name)`
 
 In the CB I `return False`, because I do not want to prevent further handling of the `signal "draw"`.
 
-Check out what happens if one return `True`
+Check out what happens if one return `True`.
 
 ## Examples
 [Draw a Line](./"01 Draw Line.md")
