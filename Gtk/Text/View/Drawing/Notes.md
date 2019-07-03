@@ -45,18 +45,17 @@ In the CB I `return False`, because I do not want to prevent further handling of
 Check out what happens if one return `True`.
 
 ## Examples
-[Draw a Line](./"01 Draw Line.md")
+[Draw a Line](01 Draw Line.md)
 
-[Draw a PixBuf](./"02 Draw Pixbuf.md")
+[Draw a PixBuf](02 Draw Pixbuf.md)
 
-[Translate Cooordinates](./"03 Coordinates.md")
+[Translate Cooordinates](03 Coordinates.md)
 
-[Move PixBuf](./"04 Move Pixbuf.md")
+[Move PixBuf](04 Move Pixbuf.md)
 
-[Draw a PixBufAnim](./"05 Draw PixbufAnim.md")
+[Draw a PixBufAnim](05 Draw PixbufAnim.md)
 
-
-##Links
+## Links
 
 Drawing in GTK<br>
 https://blog.gtk.org/2016/06/15/drawing-in-gtk/
