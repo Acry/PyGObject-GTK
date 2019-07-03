@@ -27,7 +27,7 @@ class MyTextView(Gtk.ApplicationWindow):
     pb = None
 
     def __init__(self, app):
-        Gtk.Window.__init__(self, title="TextView Example", application=app)
+        Gtk.Window.__init__(self, title="DrawPixBuf", application=app)
         self.set_border_width(10)
         self.set_default_size(450, 450)
         self.set_icon_from_file(ICON_IMAGE)
@@ -64,7 +64,7 @@ class MyTextView(Gtk.ApplicationWindow):
 class TextViewExample(Gtk.Application):
     def __init__(self):
         Gtk.Application.__init__(self,
-                                 application_id="io.Acry.TextViewExample",
+                                 application_id="io.Acry.DrawPixBuf",
                                  flags=Gio.ApplicationFlags.FLAGS_NONE)
 
     def do_activate(self):
