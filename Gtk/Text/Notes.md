@@ -22,8 +22,8 @@ Usually the view is shown in a Scrolled window.
 
 ## Links
 
-A Demo on the GNOME's Developer Site:
+A Demo on the GNOME's Developer Site:<br>
 https://developer.gnome.org/gnome-devel-demos/stable/textview.py.html.en
 
-Additional Informations:
+Additional Informations:<br>
 https://gitlab.gnome.org/GNOME/gtk/blob/master/docs/text_widget_internals.txt
