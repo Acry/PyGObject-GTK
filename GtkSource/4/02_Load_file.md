@@ -30,4 +30,4 @@ After that the source-code is available in the buffer.
 
 No need to call `buffer.set_text()`
 
-As one can see in `02_sourceview_load_file.py` a simple file read does the same job, for now.
+As one can see in `02_load_file.py` a simple file read does the same job, for now.
